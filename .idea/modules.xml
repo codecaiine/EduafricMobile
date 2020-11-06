@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EduafricMobil.iml" filepath="$PROJECT_DIR$/.idea/modules/EduafricMobil.iml" group="EduafricMobil" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EduafricMobil-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EduafricMobil-app.iml" group="EduafricMobil/app" />
+      <module fileurl="file://$PROJECT_DIR$/EduafricMobile.iml" filepath="$PROJECT_DIR$/EduafricMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

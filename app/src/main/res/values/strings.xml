@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eduafric</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_first">First Name</string>
+    <string name="hint_last">Last Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="link_to_register">Not register ? Sign up now!</string>
+    <string name="link_to_login">Already have an account ? Login.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+</resources>
